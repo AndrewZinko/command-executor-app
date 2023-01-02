@@ -1,0 +1,19 @@
+{
+  "name": "command-executer-app",
+  "version": "1.0.0",
+  "description": "Command executer application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Zinko",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.18"
+  }
+}
